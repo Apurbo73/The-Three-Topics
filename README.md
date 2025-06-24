@@ -1,5 +1,4 @@
 ﻿# The-Three-Topics
-Here is the C++ code that solves the problem as described:
 
 
 
@@ -11,4 +10,3 @@ Here is the C++ code that solves the problem as described:
 * It checks whether `X` is equal to any of the three prepared topics.
 * Prints `"Yes"` if Chef has prepared for topic `X`, otherwise `"No"`.
 
-Let me know if you’d like a quick [sample input/output](f) or a [flowchart](f) to visualize the logic.
